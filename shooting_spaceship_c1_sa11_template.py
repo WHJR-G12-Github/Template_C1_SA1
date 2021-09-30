@@ -34,7 +34,7 @@ WHITE=(             )
 # Name the rectangle as 'enemy'
 enemy=pygame.Rect(            )
 
-# Draw the 'enemy' rectangle in the screen in WHITE color
+# Draw the 'enemy' rectangle on the screen in WHITE color
 pygame.draw.rect(screen,         ,         )
 
 # Updating the screen after adding the background image and drawing the rectangle
